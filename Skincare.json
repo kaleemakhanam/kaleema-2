@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "category":"Bathing Accessories"
+    },
+    {
+        "id":2,
+        "category":"Lotions, oils and Powders"
+    },
+    {
+        "id":3,
+        "category":"Soaps, Shampoos and Body Wash"
+    },
+    {
+        "id":4,
+        "category":"Bath Toys"
+    },
+
+    {
+        "id":5,
+        "category":"Grooming Essentials"
+    },
+]

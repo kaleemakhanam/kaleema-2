@@ -1,0 +1,120 @@
+[
+    {
+        "id":1,
+        "product_name":"Boy clothes",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"party wear",
+        "Image":,
+        "brand":"Babyhug"
+    }
+    {
+        "id":2,
+        "product_name":"Girl clothes",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"Rompers"
+        "Image":
+        "brand":"Kookie kids" 
+    }
+    {
+        "id":3,
+        "product_name":"footwear",
+        "age":"12-24",
+        "price":"500-5000",
+        "size":"extra large",
+        "type":"shoes",
+        "Image": 
+        "brand":"cute walk by babyhgug"
+    },
+    {
+        "id":4,
+        "product_name":"bathing essentials",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"Soaps and Shampoos",
+        "Image":
+        "brand":"Babyhug"
+    },
+    {
+        "id":5,
+        "product_name":"Diapers",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"pant style",
+        "Image":,
+        "brand":"Babyhug"
+    },
+    {
+        "id":6,
+        "product_name":"Nursery",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"Quilts",
+        "Image":,
+        "brand":"R for Rabbit"
+    },
+    {
+        "id":7,
+        "product_name":"Feeding",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"small",
+        "type":"Feeding bottles",
+        "Image":,
+        "brand":"Pigeon"
+    },
+    {
+        "id":8,
+        "product_name":"baby Gear",
+        "age":"12-24",
+        "price":"500-5000",
+        "size":"extra large",
+        "type":"Baby Walkers",
+        "Image":,
+        "brand":"Sunbaby"
+    },
+    {
+        "id":9,
+        "product_name":"health and Safety",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"large",
+        "type":"Baby Monitors",
+        "Image":,
+        "brand":"Babyhug"
+    },
+    {
+        "id":10,
+        "product_name":"toys",
+        "age":"0-12",
+        "price":"500-5000",
+        "size":"small",
+        "type":"Musical toys",
+        "Image":,
+        "brand":"Baby Rattles"
+    },
+    {
+        "id":11,
+        "product_name":"health and Safety",
+        "age":"0-12",
+        "price":"500-5000",
+        "type":"Mediacl care",
+        "Image":,
+        "brand":"Best Sellers"
+    },
+    {
+        "id":12,
+        "product_name":"Birthdays and Gifts",
+        "age":"2-3",
+        "price":"500-5000",
+        "type":"Gift Sets",
+        "Image":,
+        "brand":"Best Sellers"
+    },
+]

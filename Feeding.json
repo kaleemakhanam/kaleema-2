@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Baby Food and Infant Formula"
+    },
+    {
+        "id":2,
+        "category":"Feeding Bottles, Sippers and Cups"
+    },
+    {
+        "id":3,
+        "category":"Bibs and Hanky "
+    },
+    {
+        "id":4,
+        "category":"Dishes and Utensils"
+    },
+    {
+        "id":5,
+        "category":"Teethers, Pacifiers and Sterilizers"
+    },
+]

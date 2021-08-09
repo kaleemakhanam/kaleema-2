@@ -1,0 +1,26 @@
+[
+    {
+            "id":1,
+            "category":"Booties"
+    },
+    {
+        "id":2,
+        "category":"Socks/Anti-Socks"
+    },
+    {
+        "id":3,
+        "category":"Casual Shoes"
+    },
+    {
+        "id":4,
+        "category":"Party and Ethnic Wear"
+    },
+    {
+        "id":5,
+        "category":"Flip=Flops"
+    },
+    {
+        "id":6,
+        "category":"Multi-Pack"
+    },
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "category":"party wear"
+    },
+    {
+        "id":2,
+        "category":"Ethnic Wear"
+    },
+    {
+        "id":3,
+        "category":"onesies and Rompers"
+    },
+    {
+        "id":4,
+        "category":"Carters"
+    },
+    {
+        "id":5,
+        "category":"Night Suits"
+    },
+    {
+        "id":6,
+        "category":"Sets and Suits"
+    },
+    {
+        "id":7,
+        "category":"Shirts"
+    },
+    {
+        "id":8,
+        "category":"Bottoms"
+    },
+]

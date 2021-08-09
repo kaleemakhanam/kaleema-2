@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "sub-category":"Fasion"
+    },
+    {
+         "id":2,
+        "sub-category":"FootWear"
+    },
+    {
+        "id":3,
+        "sub-category":"Diapering"
+    },
+    {
+        "id":4,
+        "sub-category":"Bath and Skin Care"
+
+    },
+    {
+        "id":5,
+        "sub-category":"Feeding and Nursing"
+    },
+    {
+        "id":6,
+        "sub-category":"Healthand Safety"
+    },
+    {
+        "id":7,
+        "sub-category":"Toys and Books"
+    },
+    {
+        "id":8,
+        "sub-category":"Birthdays and Gifts"
+    },
+]
+
+    
+]
