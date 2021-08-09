@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "category":"Boy"
+    },
+    {
+        "id":2,
+        "category":"Girl"
+    },
+    {
+        "id":3,
+        "category":"Men"
+    },
+    {
+        "id":4,
+        "category":"Women"
+    },

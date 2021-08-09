@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "category":"Baby Rattles "
+    },
+    {
+        "id":2,
+        "category":"Push and Pull Along Toys"
+    },
+    {
+        "id":3,
+        "category":"Indoor and Outdoor Play Equipment"
+    },
+    
+    {
+        "id":4,
+        "category":"Early Learning"
+    },
+    
+    {
+        "id":5,
+        "category":"Story Books"
+    },
+    
+    {
+        "id":6,
+        "category":"Crafts, Hobbies & Activity books"
+    },
+]
