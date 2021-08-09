@@ -6,7 +6,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"party wear",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\imagesboy.png",
         "brand":"Babyhug"
     }
     {
@@ -16,7 +16,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"Rompers"
-        "Image":
+        "Image":"C:\Users\Hp\Desktop\images\rompers.jpg",
         "brand":"Kookie kids" 
     }
     {
@@ -26,7 +26,7 @@
         "price":"500-5000",
         "size":"extra large",
         "type":"shoes",
-        "Image": 
+        "Image":"C:\Users\Hp\Desktop\images\footwear.jpg",
         "brand":"cute walk by babyhgug"
     },
     {
@@ -36,7 +36,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"Soaps and Shampoos",
-        "Image":
+        "Image":"C:\Users\Hp\Desktop\images\bating.jpg",
         "brand":"Babyhug"
     },
     {
@@ -46,7 +46,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"pant style",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\diaper.png",
         "brand":"Babyhug"
     },
     {
@@ -56,7 +56,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"Quilts",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\cradles.png",
         "brand":"R for Rabbit"
     },
     {
@@ -66,7 +66,7 @@
         "price":"500-5000",
         "size":"small",
         "type":"Feeding bottles",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\feeding and nursing.png",
         "brand":"Pigeon"
     },
     {
@@ -76,7 +76,7 @@
         "price":"500-5000",
         "size":"extra large",
         "type":"Baby Walkers",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\Babygear.png",
         "brand":"Sunbaby"
     },
     {
@@ -86,7 +86,7 @@
         "price":"500-5000",
         "size":"large",
         "type":"Baby Monitors",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\babymonitor.png",
         "brand":"Babyhug"
     },
     {
@@ -96,7 +96,7 @@
         "price":"500-5000",
         "size":"small",
         "type":"Musical toys",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\babyrattles.png",
         "brand":"Baby Rattles"
     },
     {
@@ -105,7 +105,7 @@
         "age":"0-12",
         "price":"500-5000",
         "type":"Mediacl care",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\babysafety.png",
         "brand":"Best Sellers"
     },
     {
@@ -114,7 +114,7 @@
         "age":"2-3",
         "price":"500-5000",
         "type":"Gift Sets",
-        "Image":,
+        "Image":"C:\Users\Hp\Desktop\images\gifts.png",
         "brand":"Best Sellers"
     },
 ]
